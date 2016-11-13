@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GeoConverter</string>
+    <string name="conversi_n">Conversión</string>
+    <string name="limpiar">Limpiar</string>
+</resources>
